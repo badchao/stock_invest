@@ -1,0 +1,406 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title>蓝鲸导航</title>
+<base href="http://whale.xoyo.com"/>
+<link rel="icon" href="/images/icon.png?version=1" type="image/x-icon" />
+<link rel="SHORTCUT ICON" href="/images/icon.png?version=1" type="image/x-icon" />
+<link href="css/nav.css"  rel="stylesheet" />
+<script type="text/javascript" src="js/jquery-2.2.2.min.js"></script>
+<script type="text/javascript" src="js/jquery.cookie.js"></script>
+<style>
+/* bootstrap修改默认字体，更换为微软雅黑或其他字体 */
+body,button, input, select, textarea,h1 ,h2, h3, h4, h5, h6 { 
+	font-family: Microsoft YaHei,'宋体' , Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;
+}
+
+body {
+	padding-top: 40px;
+}
+
+.search .dropdown-menu strong {
+	height: 12px;
+	line-height: 12px;
+}
+
+.dh-search {
+	text-align: center;
+	border: 1px solid #f1f1f1;
+	padding: 16px 0px 12px;
+	margin-bottom: 20px;
+	background: #fdfdfd;
+}
+
+.dh-search-tabs {
+	margin-bottom: 10px;
+}
+
+.dh-search-tabs li {
+	display: inline-block;
+	margin-right: 10px;
+	padding: 5px 12px;
+	cursor: pointer;
+	border-radius: 3px;
+}
+
+.dh-search-tabs li:hover {
+	background: #f1f1f1;
+}
+
+.dh-search-tabs li.selected {
+	background: #05a;
+	color: white;
+}
+
+.dh-search-form {
+	margin-top: 10px;
+}
+
+.dh-search-form .unfold .dh-search-engine-current {
+	border: 1px solid #f1f1f1;
+}
+
+.dh-search-engine {
+	display: inline-block;
+	margin-right: 10px;
+	cursor: pointer;
+	position: relative;
+	line-height: 27px;
+	visibility: hidden;
+}
+
+.dh-search-engine-current {
+	border: 1px solid transparent;
+	padding: 0px 8px;
+	width: 100px;
+}
+
+.dh-search-engine s {
+	position: absolute;
+	left: 105px;
+	top: 17px;
+	width: 12px;
+	height: 12px;
+	display: inline-block;
+	margin-left: 2px;
+	background: url(//assets.imedao.com/images/icon_12px.png) no-repeat
+		-12px 0px;
+}
+
+.dh-search-form .unfold s {
+	background: url(//assets.imedao.com/images/icon_12px.png) no-repeat
+		-12px -12px;
+}
+
+.dh-search-engine-list {
+	background: #fdfdfd;
+	position: absolute;
+	width: 116px;
+	top: 40px;
+	left: 0px;
+	border: 1px solid #f1f1f1;
+	border-top: none;
+	display: none;
+}
+
+.dh-search-engine-list li {
+	padding: 0px 8px;
+}
+
+.dh-search-engine img {
+	vertical-align: bottom;
+}
+
+.dh-search-input {
+	width: 510px;
+	height: 16px;
+	font-size: 16px;
+	line-height: 22px;
+	padding: 5px 5px;
+}
+
+.dh-search-button {
+	width: 80px;
+	height: 30px;
+	margin-left: 10px;
+	margin-bottom: 5px;
+}
+
+.dh-search-otherParams {
+	display: none;
+}
+
+.favorite {
+	float: right;
+	line-height: 30px;
+	font-size: 12px;
+	margin-right: 20px;
+	color: #05a;
+	cursor: pointer;
+	display: none;
+}
+
+body#dh #center .main .dh-header #share {
+	width: 185px;
+}
+</style>
+
+
+</head>
+<body id="dh" class=" isPC isNotMobile isNotPad">
+	
+	<div class="navbar navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container">
+				<h1 id="logo">
+					<a href="/" title="返回我的首页">
+						<img src="/images/logo.png"/>
+					</a>
+				</h1>
+				<div class="nav_logined">
+					<ul class="nav">
+						<li class="">
+							<a href="/nav.jsp">首页</a>
+						</li>
+					</ul>
+					<!-- <ul class="nav pull-right account">
+						<li class="dropdown">
+							<a href="#" data-toggle="dropdown" data-target="#"
+								class="dropdown-toggle">
+								badqiu<b class="caret"></b>
+							</a>
+							<ul class="dropdown-menu">
+								<li class="">
+									<a href="/setting/user">个人设置</a>
+								</li>
+								<li class="">
+									<a href="/setting/st_privacy">系统设置</a>
+								</li>
+								<li>
+									<a href="/user/logout" class="exit">退出</a>
+								</li>
+							</ul>
+						</li>
+					</ul> -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="center" class="container">
+		<div class="main">
+			<div style="display: none" class="loading"></div>
+			<div class="wrapper">
+
+				<div class="dh-header">
+					<h1>
+						<a href="/nav.jsp" class="siteName">蓝鲸财经数据导航</a>
+					</h1>
+				</div>
+				<!-- 
+				<div class="dh-search">
+					<form method="get" target="_blank" action="" class="dh-search-form">
+						<div style="display: inline-block; text-align: left;">
+							<input class="dh-search-input" />
+						</div>
+						<input type="submit" value="搜索" class="dh-search-button btn" />
+					</form>
+				</div>
+				 -->
+				<div class="left">
+					<ul>
+						<li>
+							<h4>最近访问</h4>
+							<div id="lastVisitUrlContainer">
+								
+							</div>
+						</li>
+						<!-- 
+						<li>
+							<h4>工具导航</h4>
+							<span>
+								<a href="http://datacore.xsj.qinha.com/" target="_blank">事件平台</a>
+							</span>
+						</li>
+						 -->
+					</ul>
+					<div class="contact">
+						<h3>联系:</h3>
+						<span id="email">qiubaichao1@kingsoft.com</span>
+					</div>
+				</div>
+				<div class="right">
+					<ul>
+
+						<li class="category">
+							<h4>其它</h4>
+							<ul>
+								<li class="type">
+									<div class="typeName">[基础]</div>
+									<div class="links">
+										<span><a target="_blank" href='http://data.eastmoney.com/cjsj/yzgptj.html'>股票开户数据</a></span>
+										<span><a target="_blank" href='http://www.sipf.com.cn/subject/sub_ch/tjsj/index.html'>投资者的资金余额</a></span>
+										<span><a target="_blank" href='http://www.sse.com.cn/market/dealingdata/overview/margin/'>融资融券相关交易数据</a></span>
+										<span><a target="_blank" href='http://hao.199it.com/'>数据导航</a></span>
+										<span><a target="_blank" href='http://data.10jqka.com.cn/financial/yjyg/'>业绩预告</a></span>
+										<span><a target="_blank" href='https://www.jisilu.cn/'>集思录</a></span>
+										<span><a target="_blank" href='http://data.eastmoney.com/rzrq/sh.html'>融资融券长期趋势</a></span>
+									</div>
+								</li>
+								
+								<li class="type">
+									<div class="typeName">[宏观]</div>
+									<div class="links">
+										<span><a target="_blank" href='http://finance.sina.com.cn/mac/'>中国宏观经济数据</a></span>
+										<span><a target="_blank" href='http://data.eastmoney.com/other/qsjy.html'>券商业绩月报</a></span>
+										<span><a target="_blank" href='http://data.eastmoney.com/zlsj/jj.html'>基金持仓</a></span>
+										<span><a target="_blank" href='http://value500.com/PE.asp'>A股历史平均市盈率走势图</a></span>
+										<span><a target="_blank" href='http://value500.com/M2.html'>上交所A股流通市值”与“M2”走势图</a></span>											
+									</div>
+								</li>
+								<li class="type">
+									<div class="typeName">[美股]</div>
+									<div class="links">
+										<span><a target="_blank" href='http://www.gurufocus.com/stock-market-valuations.php'>巴菲特指数</a></span>											
+									</div>
+								</li>
+								
+								
+								<li class="type">
+									<div class="typeName">[期权]</div>
+									<div class="links">
+										<span><a target="_blank" href='http://quote.eastmoney.com/center/qiquan.html'>期权eastmoney</a></span>
+										<span><a target="_blank" href='http://stock.finance.sina.com.cn/option/quotes.html'>期权sina</a></span>			
+									</div>
+								</li>
+								
+								<li class="type">
+									<div class="typeName">选股器</div>
+									<div class="links">
+										<span><a target="_blank" href='http://data.eastmoney.com/xuangu/'>选股器eastmoney</a></span>
+										<span><a target="_blank" href='http://screener.finance.sina.com.cn'>选股器sina</a></span>
+										<span><a target="_blank" href='http://search.10jqka.com.cn/stockpick'>选股器10jqka</a></span>
+										<span><a target="_blank" href='http://search.10jqka.com.cn/stockpick/search?typed=1&preParams=&ts=1&f=1&qs=1&selfsectsn=&querytype=&searchfilter=&tid=stockpick&w=%E5%87%80%E8%B5%84%E4%BA%A7%E6%94%B6%E7%9B%8A%E7%8E%87%E5%A4%A7%E4%BA%8E10%25%EF%BC%8C%E6%AF%9B%E5%88%A9%E7%8E%87%E5%A4%A7%E4%BA%8E30%25%EF%BC%8C%E8%90%A5%E6%94%B6%E5%A2%9E%E9%95%BF20%25%2C%E5%B8%82%E5%80%BC%E5%A4%A7%E4%BA%8E50%E4%BA%BF%EF%BC%8C%E5%B8%82%E7%9B%88%E7%8E%87%E5%B0%8F%E4%BA%8E50
+'>选股器10jqka</a></span>
+									</div>
+								</li>
+								
+								<li class="type">
+									<div class="typeName">互联网</div>
+									<div class="links">
+										<span><a target="_blank" href='http://top.chinaz.com/'>网站排行</a></span>
+										<span><a target="_blank" href='http://www.100ec.cn/zt/data/'>电子商务</a></span>
+										<span><a target="_blank" href='http://www.appannie.com/apps/ios/top/?device=iphone'>iphone应用排名</a></span>
+										<span><a target="_blank" href='http://www.umindex.com/markets'>友盟应用排名</a></span>
+										<span><a target="_blank" href='http://www.talkingdata.com'>talkingdata应用排名</a></span>
+										<span><a target="_blank" href='http://www.alexa.com/siteinfo/xueqiu.com'>alexa网站排名</a></span>
+										<span><a target="_blank" href='http://report.iresearch.cn/data.shtml'>艾瑞-互联网数据</a></span>										
+									</div>
+								</li>
+
+								<li class="type">
+									<div class="typeName">[指数]</div>
+									<div class="links">
+										<span><a target="_blank" href='http://www.csindex.com.cn/sseportal/csiportal/zs/jbxx/daily_index_info.jsp'>平均市盈率</a></span>
+										<span><a target="_blank" href='http://www.csindex.com.cn/sseportal/csiportal/hy_syl/syl.jsp'>A股全市场行业市盈率</a></span>
+										<span><a target="_blank" href='http://www.licaidashiye.com/tools/tool_list.php'>股票历史市盈率，市净率查询</a></span>
+										<span><a target="_blank" href='http://www.advisorperspectives.com/dshort/updates/Market-Cap-to-GDP' title="GDP / 股票总市值">美股巴菲特指数</a></span>					
+										<span><a target="_blank" href='http://finance.yahoo.com/echarts?s=%5EVIX+Interactive'>恐惧指数</a></span>
+										<span><a target="_blank" href='http://money.cnn.com/data/fear-and-greed/' title="（20是买进指标，80是卖出指标）">CNN恐惧，贪梦指数</a></span>
+									</div>
+								</li>
+								
+								<li class="type">
+									<div class="typeName">[博彩]</div>
+									<div class="links">
+										<span><a target="_blank" href='http://www.dicj.gov.mo/web/cn/information/DadosEstat_mensal/index.html'>澳门博彩业收入</a></span>
+										<span><a target="_blank" href='http://www.dsec.gov.mo/default.aspx'>澳门:旅行團及酒店入住率</a></span>
+										<span><a target="_blank" href='http://www.discoverhongkong.com/china/about-hktb/news/visitor-arrival.jsp'>访港旅客统计</a></span>					
+									</div>
+								</li>
+								
+								<li class="type">
+									<div class="typeName">[期货]</div>
+									<div class="links">
+										<span><a target="_blank" href='http://www.51fut.com/bakeroil-196-1-30.html'>美国石油钻井平台</a></span>
+										<span><a target="_blank" href='http://www.51fut.com/eia-195-1-5.html'>美国原油日产量</a></span>	
+										<span><a target="_blank" href='http://www.globaldairytrade.info/en/product-results/'>原奶价格指数</a></span>
+									</div>
+								</li>
+								
+								<li class="type">
+									<div class="typeName">[房产]</div>
+									<div class="links">
+										<span><a target="_blank" href='http://61.144.226.84/credit/showcjgs/ysfcjgs.aspx?cjType=0'>深圳</a></span>
+										<span><a target="_blank" href='http://www.szpl.gov.cn/xxgk/csgh/jqjsgh/'>深圳土地供应</a></span>
+										<span><a target="_blank" href='http://g4c.laho.gov.cn/'>广州</a></span>
+										<span><a target="_blank" href='http://61.143.53.130:8086/zhpubweb/SaleCount.aspx'>珠海</a></span>
+										<span><a target="_blank" href='http://www.zhdpb.gov.cn/'>珠海备案价格</a></span>
+										<span><a target="_blank" href='http://www.zsfdc.gov.cn/'>中山</a></span>										
+									</div>
+								</li>
+								
+								<li class="type">
+									<div class="typeName">[搜房]</div>
+									<div class="links">
+										<span><a target="_blank" href='https://m.fang.com/fangjia/sz/'>深圳</a></span>
+										<span><a target="_blank" href='https://m.fang.com/fangjia/zh/'>珠海</a></span>
+										<span><a target="_blank" href='https://m.fang.com/fangjia/gz/'>广州</a></span>
+										<span><a target="_blank" href='https://m.fang.com/fangjia/zs/'>中山</a></span>
+										<span><a target="_blank" href='https://m.fang.com/fangjia/sh/'>上海</a></span>
+										<span><a target="_blank" href='https://m.fang.com/fangjia/bj/'>北京</a></span>
+									</div>
+								</li>
+							</ul>
+						</li>
+						
+						
+					</ul>
+				</div>
+				
+<script type="text/javascript">
+	$.cookie.json = true;
+	$(".links a").click(function(event) {
+		var a = event.target;
+		console.info(a.href+" " + a.text);
+		var url = {href:a.href,text:a.text};
+		var lastVisitUrls = $.cookie('lastVisitUrls');
+		if(!lastVisitUrls) {
+			lastVisitUrls = [];
+		}
+		//console.info("read from cookie,lastVisitUrls:"+lastVisitUrls);
+		//console.dir(lastVisitUrls);
+		if(!isContainsUrl(url,lastVisitUrls)) {
+			lastVisitUrls.unshift(url);
+		}
+		
+		$.cookie('lastVisitUrls', lastVisitUrls.slice(0,6), {expires: 700});
+	});
+	
+	function isContainsUrl(url,lastVisitUrls) {
+		for(var i = 0; i < lastVisitUrls.length; i++) {
+			var item = lastVisitUrls[i];
+			if(item.href == url.href) {
+				return true;
+			}
+		}
+		return false;
+	}
+	
+	function showLastVisitUrlByHistory () {
+		var lastVisitUrls = $.cookie('lastVisitUrls');
+		$(lastVisitUrls).each(function(index,item) {
+			if(index > 5) {
+				return;
+			}
+			$("#lastVisitUrlContainer").append("<span><a href='"+item.href+"' target='_blank'>"+item.text+"</a></span><br/>");
+		});
+	}
+	
+	showLastVisitUrlByHistory();
+</script>
+				
+</body>
+</html>
