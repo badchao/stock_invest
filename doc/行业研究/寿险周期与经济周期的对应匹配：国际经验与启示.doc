@@ -1,0 +1,1003 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type  content="text/html; charset=gb2312" ><meta name=ProgId  content=Word.Document ><meta name=Generator  content="Microsoft Word 14" ><meta name=Originator  content="Microsoft Word 14" ><title></title><!--[if gte mso 9]><xml><o:DocumentProperties><o:Author>Administrator</o:Author><o:LastAuthor>super</o:LastAuthor><o:Revision>1</o:Revision><o:Pages>9</o:Pages><o:Characters>9441</o:Characters><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties><o:CustomDocumentProperties><o:KSOProductBuildVer dt:dt="string" >2052-11.1.0.14309</o:KSOProductBuildVer><o:ICV dt:dt="string" >268F92A3CE8A4BF79683B44806832016_12</o:ICV></o:CustomDocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><![endif]--><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:View>Web</w:View><w:Compatibility><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Normal" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footer" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="caption" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of figures" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope return" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="line number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="page number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of authorities" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="macro" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toa heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Title" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Closing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  UnhideWhenUsed="false"  Name="Default Paragraph Font" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Message Header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Subtitle" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Salutation" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Date" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Note Heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Block Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Hyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="FollowedHyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Strong" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Emphasis" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Document Map" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Plain Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="E-mail Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal (Web)" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Acronym" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Cite" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Code" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Definition" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Keyboard" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Preformatted" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Sample" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Typewriter" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Variable" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  UnhideWhenUsed="false"  Name="Normal Table" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation subject" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / a / i" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / 1.1 / 1.1.1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Article / Section" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Contemporary" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Elegant" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Professional" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Subtle 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Subtle 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Balloon Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Theme" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Placeholder Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No Spacing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Paragraph" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Intense Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
+</w:LatentStyles></xml><![endif]--><style>
+@font-face{
+font-family:"Times New Roman";
+}
+
+@font-face{
+font-family:"宋体";
+}
+
+@font-face{
+font-family:"Wingdings";
+}
+
+@font-face{
+font-family:"微软雅黑";
+}
+
+p.MsoNormal{
+mso-style-name:正文;
+mso-style-parent:"";
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+h1{
+mso-style-name:"标题 1";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:24.0000pt;
+mso-font-kerning:22.0000pt;
+}
+
+h2{
+mso-style-name:"标题 2";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:18.0000pt;
+}
+
+h3{
+mso-style-name:"标题 3";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:13.5000pt;
+}
+
+h4{
+mso-style-name:"标题 4";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:12.0000pt;
+}
+
+h5{
+mso-style-name:"标题 5";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:10.0000pt;
+}
+
+h6{
+mso-style-name:"标题 6";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:7.5000pt;
+}
+
+span.10{
+font-family:'Times New Roman';
+}
+
+span.15{
+font-family:'Times New Roman';
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
+}
+
+p.16{
+mso-style-name:info_left;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.17{
+mso-style-name:artibody;
+margin-right:15.0000pt;
+margin-left:15.0000pt;
+text-align:left;
+line-height:180%;
+font-family:微软雅黑;
+color:rgb(102,102,102);
+font-size:13.5000pt;
+}
+
+p.18{
+mso-style-name:articl_info;
+margin-right:22.5000pt;
+margin-bottom:15.0000pt;
+margin-left:22.5000pt;
+border-bottom:1.0000pt solid rgb(225,225,225);
+mso-border-bottom-alt:0.7500pt solid rgb(225,225,225);
+padding:0pt 0pt 15pt 0pt ;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.19{
+mso-style-name:collectionpage_link1;
+margin-left:7.5000pt;
+padding:0pt 0pt 0pt 0pt ;
+text-align:left;
+line-height:16.5000pt;
+font-family:宋体;
+color:rgb(17,131,193);
+font-size:12.0000pt;
+}
+
+p.20{
+mso-style-name:col_info;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+line-height:15.0000pt;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.pre{
+mso-style-name:"HTML 预设格式";
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.p{
+mso-style-name:"普通\(网站\)";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.23{
+mso-style-name:printpage_link;
+margin-left:7.5000pt;
+padding:0pt 0pt 0pt 0pt ;
+text-align:left;
+line-height:16.5000pt;
+font-family:宋体;
+color:rgb(17,131,193);
+font-size:12.0000pt;
+}
+
+p.MsoTitle{
+mso-style-name:标题;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.25{
+mso-style-name:t01;
+margin:0pt;
+margin-bottom:.0001pt;
+border-top:1.0000pt solid rgb(221,221,221);
+mso-border-top-alt:0.7500pt solid rgb(221,221,221);
+border-right:1.0000pt solid rgb(221,221,221);
+mso-border-right-alt:0.7500pt solid rgb(221,221,221);
+border-bottom:1.0000pt solid rgb(221,221,221);
+mso-border-bottom-alt:0.7500pt solid rgb(221,221,221);
+border-left:1.0000pt solid rgb(221,221,221);
+mso-border-left-alt:0.7500pt solid rgb(221,221,221);
+padding:0pt 0pt 0pt 7pt ;
+text-align:left;
+line-height:22.5000pt;
+font-family:宋体;
+color:rgb(17,131,193);
+font-size:10.5000pt;
+}
+
+p.26{
+mso-style-name:main;
+margin-left:75.0000pt;
+padding:0pt 0pt 0pt 0pt ;
+text-align:left;
+line-height:21.0000pt;
+font-family:宋体;
+color:rgb(0,0,0);
+font-size:12.0000pt;
+}
+
+p.27{
+mso-style-name:fblue;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+color:rgb(35,107,172);
+font-weight:normal;
+font-size:12.0000pt;
+}
+
+p.28{
+mso-style-name:info_right;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.29{
+mso-style-name:source-img;
+margin-bottom:7.5000pt;
+border-top:1.0000pt solid rgb(211,211,211);
+mso-border-top-alt:0.7500pt solid rgb(211,211,211);
+border-right:1.0000pt solid rgb(211,211,211);
+mso-border-right-alt:0.7500pt solid rgb(211,211,211);
+border-bottom:1.0000pt solid rgb(211,211,211);
+mso-border-bottom-alt:0.7500pt solid rgb(211,211,211);
+border-left:1.0000pt solid rgb(211,211,211);
+mso-border-left-alt:0.7500pt solid rgb(211,211,211);
+padding:3pt 3pt 3pt 3pt ;
+text-align:center;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.30{
+mso-style-name:btn-img;
+margin:0pt;
+margin-bottom:.0001pt;
+padding:0pt 0pt 0pt 0pt ;
+text-align:center;
+vertical-align:middle;
+font-family:宋体;
+font-size:9.0000pt;
+}
+
+p.31{
+mso-style-name:con_cbg;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.32{
+mso-style-name:t_artiinfo;
+margin-top:7.5000pt;
+padding:0pt 0pt 0pt 0pt ;
+text-align:left;
+line-height:22.5000pt;
+font-family:宋体;
+font-size:10.5000pt;
+}
+
+p.33{
+mso-style-name:info_c;
+margin-left:60.0000pt;
+text-align:left;
+line-height:18.0000pt;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.34{
+mso-style-name:con_bbg;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+mso-line-height-alt:12pt;
+font-family:宋体;
+font-size:8.0000pt;
+}
+
+p.35{
+mso-style-name:border_w;
+margin:0pt;
+margin-bottom:.0001pt;
+border-top:1.5000pt solid rgb(97,155,192);
+mso-border-top-alt:1.5000pt solid rgb(97,155,192);
+border-right:1.0000pt solid rgb(211,211,211);
+mso-border-right-alt:0.7500pt solid rgb(211,211,211);
+border-bottom:1.0000pt solid rgb(211,211,211);
+mso-border-bottom-alt:0.7500pt solid rgb(211,211,211);
+border-left:1.0000pt solid rgb(211,211,211);
+mso-border-left-alt:0.7500pt solid rgb(211,211,211);
+padding:0pt 0pt 0pt 0pt ;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.36{
+mso-style-name:marl;
+margin-left:15.0000pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.37{
+mso-style-name:t_tj;
+margin-top:11.2500pt;
+margin-right:11.2500pt;
+margin-bottom:11.2500pt;
+margin-left:11.2500pt;
+padding:0pt 0pt 0pt 0pt ;
+text-align:left;
+font-family:宋体;
+color:rgb(255,255,255);
+font-size:10.5000pt;
+}
+
+p.38{
+mso-style-name:downloadpage_link;
+margin-left:7.5000pt;
+padding:0pt 0pt 0pt 0pt ;
+text-align:left;
+line-height:16.5000pt;
+font-family:宋体;
+color:rgb(17,131,193);
+font-size:12.0000pt;
+}
+
+p.39{
+mso-style-name:trr;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:right;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.40{
+mso-style-name:come;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:right;
+font-family:宋体;
+color:rgb(153,153,153);
+font-size:12.0000pt;
+}
+
+p.41{
+mso-style-name:con_01;
+margin:0pt;
+margin-bottom:.0001pt;
+padding:0pt 0pt 0pt 0pt ;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.42{
+mso-style-name:item;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.43{
+mso-style-name:author;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.44{
+mso-style-name:c12_01;
+margin-right:11.2500pt;
+margin-bottom:11.2500pt;
+margin-left:11.2500pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.45{
+mso-style-name:notice;
+margin-left:7.5000pt;
+padding:0pt 0pt 0pt 0pt ;
+text-align:left;
+line-height:16.5000pt;
+font-family:宋体;
+color:rgb(17,131,193);
+font-size:12.0000pt;
+}
+
+p.46{
+mso-style-name:articl_info_t;
+margin-right:0.0000pt;
+text-align:left;
+line-height:18.0000pt;
+font-family:宋体;
+font-weight:bold;
+font-size:12.0000pt;
+}
+
+span.msoIns{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:underline;
+text-underline:single;
+color:blue;
+}
+
+span.msoDel{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:line-through;
+color:red;
+}
+
+table.MsoNormalTable{
+mso-style-name:普通表格;
+mso-style-parent:"";
+mso-style-noshow:yes;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt;
+mso-para-margin:0pt;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-family:'Times New Roman';
+font-size:10.0000pt;
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;
+}
+@page{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}@page Section0{
+size:595.3000pt 841.9500pt;
+mso-header-margin:42.5500pt;
+mso-footer-margin:49.6000pt;
+}
+div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;" ><!--StartFragment--><div class="Section0" ><h1 align=center  style="margin-top:7.5000pt;margin-right:0.0000pt;margin-bottom:7.5000pt;
+margin-left:0.0000pt;mso-pagination:widow-orphan;text-align:center;
+line-height:26.2500pt;" ><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(35,107,172);
+font-weight:normal;font-size:15.0000pt;mso-font-kerning:22.0000pt;" ><font face="宋体" >寿险周期与经济周期的对应匹配：国际经验与启示</font></span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(35,107,172);
+font-weight:normal;font-size:15.0000pt;mso-font-kerning:22.0000pt;" ><o:p></o:p></span></h1><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:7.5000pt;
+margin-left:0.0000pt;mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  style="margin-right:22.5000pt;margin-bottom:18.8000pt;margin-left:22.5000pt;
+padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+line-height:18.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >作</font> <font face="宋体" >者：</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-right:22.5000pt;margin-bottom:18.8000pt;margin-left:82.5000pt;
+padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+line-height:18.0000pt;" ><span><a href="/qw?s0=4&s1=%e4%b8%87%e5%b3%b0/%e6%9d%a8%e7%90%b3" ><u><span class="15"  style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,255);
+text-decoration:underline;text-underline:single;font-size:12.0000pt;" ><font face="宋体" >万峰</font>/杨琳</span></u></a></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp; </span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:22.5000pt;margin-bottom:18.8000pt;margin-left:22.5000pt;
+mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  style="margin-right:22.5000pt;margin-bottom:18.8000pt;margin-left:22.5000pt;
+padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+line-height:18.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >作者简介：</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-right:22.5000pt;margin-bottom:18.8000pt;margin-left:82.5000pt;
+padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+line-height:18.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >万峰，中国人寿保险集团公司；杨琳，中国人寿保险股份有限公司，北京</font> 100032</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:22.5000pt;margin-bottom:18.8000pt;margin-left:22.5000pt;
+mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  style="margin-right:22.5000pt;margin-bottom:18.8000pt;margin-left:22.5000pt;
+padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+line-height:18.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >原文出处：</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-right:22.5000pt;margin-bottom:18.8000pt;margin-left:82.5000pt;
+padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+line-height:18.0000pt;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >改革</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:22.5000pt;margin-bottom:18.8000pt;margin-left:22.5000pt;
+mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  style="margin-right:22.5000pt;margin-bottom:18.8000pt;margin-left:22.5000pt;
+padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+line-height:18.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >内容提要：</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-right:22.5000pt;margin-bottom:18.8000pt;margin-left:22.5000pt;
+mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  style="margin-right:22.5000pt;margin-bottom:18.8000pt;margin-left:22.5000pt;
+padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+line-height:15.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >期刊代号：</font></span></b><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >F62 </span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:22.5000pt;margin-bottom:18.8000pt;margin-left:22.5000pt;
+padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+line-height:15.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >分类名称：</font></span></b><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >金融与保险</font> </span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:22.5000pt;margin-bottom:18.8000pt;margin-left:22.5000pt;
+padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+line-height:15.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >复印期号：</font></span></b><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >2014 年 10 期 </span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:22.5000pt;margin-bottom:18.8000pt;margin-left:22.5000pt;
+mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  style="margin-right:22.5000pt;margin-bottom:18.8000pt;margin-left:22.5000pt;
+padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;
+line-height:18.0000pt;" ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >关</font> <font face="宋体" >键</font> <font face="宋体" >词：</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-right:22.5000pt;margin-bottom:18.8000pt;margin-left:22.5000pt;
+mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><a name="readArea" ></a><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;改革开放以来，我国保险业特别是寿险业发展迅猛，在国民经济中的作用与地位快速提升。如何把握寿险周期运行规律，厘清寿险周期与经济周期关系，出台科学的监管政策和切合实际的产业调控政策，对我国寿险业又好又快发展并藉此推动经济金融稳健运行具有重要意义。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、寿险周期界定及其自相关分析</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;寿险周期是指寿险市场运行中出现的寿险保费收入扩大与紧缩交替往复的现象，是保费收入或保险需求围绕其长期增长趋势重复出现的周期波动；寿险周期同样包括衰退、谷底、扩张和顶峰四个阶段。寿险保费收入或寿险需求从一个顶峰到另一个顶峰，或从一个谷底到另一个谷底，称为一个完整的寿险周期。一个完整的寿险周期，与经济周期一样可以划分为两个阶段或四个阶段。寿险周期与经济周期一样可以分为古典周期和增长周期。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过对包括世界主要发达国家和新兴工业化国家在内的30余个样本国家寿险运行进行自相关分析，发现寿险增长长周期和寿险增长中短周期都具有自相关性，证明寿险运行具有典型的周期性特征。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;鉴于长周期波动性较低，而中短周期波动性较高，且二者的决定因素存在一定差异，为此通过HP滤波技术，对寿险周期和经济周期等相关变量进行技术处理，将其分离为以趋势为主的长周期和以波动为主的中短周期后分别加以分析。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span><img width="32"  height="32"  src="寿险周期与经济周期的对应匹配：国际经验与启示.files/寿险周期与经济周期的对应匹配：国际经验与启示863.png" ></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(一)寿险长周期自相关分析</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;样本国家寿险长周期自相关分析表明，无论是发达国家还是新兴工业化国家，寿险长周期均存在较强的自相关性，R平方均高达1。1980-2011年，21个发达国家样本的寿险长周期均表现为滞后4期高度自相关，多数样本国家滞后2期的影响程度最高相关系数中位值高达-6.4，其次为滞后3期的，相关系数中位值为5.7，影响相对较小的是滞后1期和滞后4期，相关系数中位值分别为3.9和-2.6；滞后5期的自相关表现不一，多数样本国家滞后5期相关性较低，没有通过检验(见表1)。同一时期9个新兴工业化国家样本中，除波兰外，其他8个样本国家的寿险长周期也都表现为滞后4期高度自相关，且与发达国家一样，滞后2期的影响程度最高，相关系数中位值高达-5.8，其次为滞后3期的，相关系数中位值为4.9，影响相对较小的是滞后1期和滞后4期，相关系数中位值分别为3.7和-2.2；滞后5期的自相关表现不一，超过50%的样本国家滞后5期也通过了检验，具有自相关性，但其影响程度是所有滞后期中最弱的。值得一提的是，无论是发达国家还是发展中国家，其寿险长周期均与滞后2期和滞后4期负相关，与滞后1期和滞后3期正相关(见表2)。总体来看，寿险长周期具有较强的自相关性，这一方面表明寿险周期受自身运行周期影响较大，另一方面为寿险长周期影响因素分析模型不再引入其滞后变量作为解释变量、防止出现共线性提供了依据。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span><img width="32"  height="32"  src="寿险周期与经济周期的对应匹配：国际经验与启示.files/寿险周期与经济周期的对应匹配：国际经验与启示1554.png" ></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(二)寿险中短周期自相关分析</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;与寿险长周期自相关结果不同的是，无论是发达国家还是新兴工业化国家，寿险中短周期自相关性相对较弱，R平方不仅不到1，而且多数集中在0.6至0.7之间；同时，多数国家只是与滞后1期存在高度自相关，相关系数中位值为0.7～0.8，较大幅度低于寿险长周期，滞后2期到滞后5期均未通过检验。从总体情况来看，寿险中短周期自相关性较弱，只与滞后1期自相关，且滞后1期的影响相对较小(见表3、表4)，这表明寿险中短期周期主要受上期寿险运行状况影响，同时也为构建寿险中短周期影响因素模型不将其滞后变量作为解释变量提供了重要依据。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、寿险周期与经济周期特征比较</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;无论是保险周期，还是经济周期，均呈现周期性变化。在此，重点考察二者的周期性特征。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(一)寿险周期和经济周期长度特征</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过对1980-2011年包括世界主要发达国家和新兴工业化国家在内的32个样本国家寿险周期长度与经济周期长度考察，可以看出，无论是发达国家还是新兴工业化国家，寿险周期长度与经济周期长度基本一致，经济周期长，则寿险周期也长，反之亦然；同时，发达国家寿险周期和经济周期长度均低于新兴工业化国家，</font></span><b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-weight:bold;font-size:10.5000pt;mso-font-kerning:0.0000pt;
+background:rgb(255,255,0);mso-highlight:rgb(255,255,0);" ><font face="微软雅黑" >发达国家寿险周期和经济周期中位值在</font><font face="微软雅黑" >7.75年，新兴工业化国家在6.6至6.8年左右</font></span></b><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >，说明发达国家寿险市场发展较为稳定，而新兴工业化国家寿险市场发展不够稳定，波动较为频繁。</font><font face="微软雅黑" >①</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(二)寿险周期和经济周期波动性特征</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;鉴于周期波动中的长周期主要体现为趋势变化，因此周期波动分析主要集中于中短期周期波动。分析表明，1980-2011年，无论是发达国家还是新兴工业化国家，寿险中短期周期和经济中短期周期均呈现一定的波动性特点，其中21个发达国家样本寿险周期和经济周期波动的标准差分别为0.1455和0.1213，变异系数中位数分别为1.23和1.28，各自均低于9个新兴工业化国家的标准差中位数和变异系数中位数，其中寿险周期标准差和变异系数中位数低出幅度分别达58%和7%，经济周期标准差和变异系数低出幅度分别达17%和7%。上述结果说明，一方面，寿险周期与经济周期波动具有内在一致性，经济周期波动较小，寿险周期波动也会较小，如发达国家，反之亦然，如新兴工业化国家；另一方面，经济发展越成熟，经济周期和寿险周期运行越平稳，如发达国家寿险周期和经济周期波动率较小，波动幅度较窄，寿险发展和经济发展的稳定性较高，而新兴工业化国家寿险周期和经济周期波动率较大，波动幅度较宽，寿险发展和经济发展的稳定性较差。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span><img width="32"  height="32"  src="寿险周期与经济周期的对应匹配：国际经验与启示.files/寿险周期与经济周期的对应匹配：国际经验与启示2720.png" ></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span><img width="32"  height="32"  src="寿险周期与经济周期的对应匹配：国际经验与启示.files/寿险周期与经济周期的对应匹配：国际经验与启示2803.png" ></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(三)寿险周期和经济周期对称性特征</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为较好揭示寿险周期对称性和非对称性特征，在此引入国外对经济周期非对称类型的研究成果进行分析。按照西赛(Sichel，1993)对经济周期非对称类型的归纳，寿险周期同样存在与经济周期类似的对称型和非对称型两种类型，其中非对称型包括“深度型”非对称和“陡度型”非对称两种类型，前者是一种横向非对称，后者是一种纵向非对称②。“深度型”非对称是指相对于均值的扩张幅度超过收缩幅度，或者收缩幅度大于扩张幅度，前者称为“高峰浅谷”型，后者称为“低峰深谷”型；“陡度型”非对称是指扩张的变化率超过收缩的变化率，或者收缩的变化率超过扩张的变化率，前者称为“陡升缓降”型，后者称为“缓升陡降”型。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这里利用GAUSS软件、采用“三元组”检验法对包括发达国家和新兴工业化国家在内的32个样本国家寿险周期③进行了非对称检验，主要表现为以下三个特点：一是寿险周期基本呈现对称性特征，在所检验的32个样本国家中，寿险周期对称分布的国家占比高达70%。二是发达国家寿险周期对称性占比高于新兴工业化国家，发达国家样本中寿险周期呈非对称性特征的国家占比为73%，高于新兴工业化国家样本60%的占比，说明发达国家寿险市场发展较为成熟，运行更加平稳，寿险周期更多表现出对称性波动特征；而新兴工业化国家经济发展较快、寿险市场波动较大，更容易出现寿险周期的非对称性波动。三是寿险周期非对称波动国家非对称类型基本一致。对于寿险周期为“深度型”非对称的7个样本国家，除匈牙利和波兰为“低峰深谷”型外，其他5个样本国家均为“高峰浅谷”型，说明在实际寿险市场运行过程中，较易出现“高峰浅谷”型的扩张性非对称情况，很少会出现“低峰深谷”型的收缩性非对称情况。对于寿险周期为“陡峭型”非对称的4个样本国家，无论是发达国家还是新兴工业化国家，均为“缓升陡降”型，没有一个国家表现为“陡升缓降”型，说明在实际寿险市场运行中，若出现“陡峭型”非对称则一般会表现为“缓升陡降”型。值得一提的是，在寿险周期呈“陡度型”非对称特征的4个样本国家中，1个为发达国家，3个为新兴工业化国家，表明新兴工业化国家寿险周期更容易出现以“缓升陡降”为特点的“陡度型”非对称波动(见表5，下页)。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;同样通过“三元组”检验法对上述32个样本国家经济增长周期进行非对称检验，并与寿险中短周期非对称检验结果进行比较，可以得到两方面结论：一方面，发达国家寿险周期的非对称性与经济周期的非对称性没有一一对应性，即如果某发达国家寿险周期呈非对称性特征，那么一般情况下该国经济周期是对称的，发达国家寿险周期的非对称性无法用经济周期的非对称性予以解释，二者之间关联度较低；另一方面，新兴工业化国家寿险周期的非对称性与经济周期的非对称性存在一一对应性，墨西哥、泰国、菲律宾和波兰的寿险周期与经济周期同时出现非对称性，且前三个样本国家寿险周期和经济周期陡度型非对称特征均表现为“缓升陡降”型，表明新兴工业化国家经济周期对寿险周期运行具有更大的影响，寿险周期的非对称性在一定程度上取决于经济周期的非对称性。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(四)拐点特征</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;鉴于寿险中短周期波动频繁，为了把握寿险增长周期中的关键拐点，这里主要对寿险长周期进行拐点分析。1980-2011年，所考察的21个发达国家寿险长周期均存在拐点，拐点发生年份的人均GDP均集中在1万至1.5万美元之间，个别富裕程度较高的发达国家如美国、加拿大、挪威、瑞典、瑞士和日本，其拐点年份的人均GDP超过1.5万美元，上述21个发达国家样本的拐点年份人均GDP中值为1.3万美元；但9个新兴工业化国家寿险长周期均不存在拐点。原因在于，所考察的时间区间为1980-2011年，这一时期发达国家人均GDP普遍经历了0.6万美元到2万美元乃至超过5万美元的发展阶段，而新兴工业化国家人均GDP高点多在1万美元左右，因此发展中国家普遍没有出现拐点(见表6)。总体来看，寿险长周期的拐点基本出现在人均GDP达1.3万美元左右的时期，有的国家可能会低至1万美元，有的国家可能会高至1.6万美元，这主要是由这些国家寿险发展和经济增长个性化差异所致，富裕程度较高的国家其拐点年份人均GDP相对较高。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span><img width="32"  height="32"  src="寿险周期与经济周期的对应匹配：国际经验与启示.files/寿险周期与经济周期的对应匹配：国际经验与启示4646.png" ></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(五)寿险周期与经济周期的同步性特征</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过对32个样本国家寿险中短周期与经济中短周期同步性分析，可以得出以下结论：一是寿险周期基本都是顺经济周期，所考察的22个发达国家样本中只有西班牙、澳大利亚、匈牙利和新加坡是逆经济周期的，其他均是顺经济周期的；10个新兴工业化国家样本中，全部为顺经济周期，表明经济向好会带动寿险业向好。二是绝大部分国家的寿险周期与经济周期都是同步波动的，所考察的22个发达国家样本和10个新兴工业化国家样本中，寿险周期与经济周期同步的国家占比分别达64%和60%(见表7)，表明经济周期运行与寿险周期运行是同步波动的；同时，32个样本国家中寿险周期与经济周期同步或滞后几期的国家占比高达78%，表明经济周期对寿险周期具有较为重要的影响，是寿险周期波动的重要影响因素。三是样本国家寿险周期与经济周期呈现非同步性的国家中，寿险周期超前于经济周期的国家多于寿险周期滞后于经济周期的国家，表明这些国家寿险周期运行更加独立，受行业自身等影响较大，受经济周期影响较小。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span><img width="32"  height="32"  src="寿险周期与经济周期的对应匹配：国际经验与启示.files/寿险周期与经济周期的对应匹配：国际经验与启示5181.png" ></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、寿险周期的影响因素</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国际寿险业发展历程表明，一国寿险发展会受到该国GDP、人均GDP、存款余额、人均存款余额、投资、消费、通货膨胀、利率、股市、出生率、老龄化率、社会保障体制等多方面因素的影响，其中，投资、消费、存款余额与GDP、人均存款余额与人均GDP、通货膨胀率与利率具有很强的共线性，因此在构建模型中，剔除这三个因素。同时，各国社会保障体制不尽相同，对寿险发展具有重要影响。通常来看，社会保障体制主要包括两类：一类是社会养老保险体制，另一类是社会医疗保险体制，二者均可按照医疗费用支出结构或养老费用支出结构划分为政府公费医疗(养老)型、社会医疗(养老)保险主导型和商业健康(养老)保险主导型，第一种是全社会医疗(养老)费用支出中以政府负担为主、企业和个人缴费为辅，第二类是以带有强制或半强制的企业和个人缴费为主，第三类是政府只负担老弱病残军人等特殊群体的养老和医疗，其他全部由个人购买商业保险或自付解决。考虑到学术界并未对社会保障体制形成公认的量化指标，因此这里根据数据可得性，选取各国政府负担医疗卫生费用占全社会医疗卫生费用比重间接代表社会保障体制的不同，该比重越高，越接近以欧洲为代表的全面公费医疗及福利养老体制；该比重越低，越接近以美国为代表的商业保险主导的社会保障体制。综合以上因素，最终选用GDP、人均GDP、利率、股指、出生率、老龄化率、以政府负担医疗费用占总医疗费用比重为代表的社会保障体制这7个指标作为寿险周期的解释变量，分别对寿险长周期、中短周期及其这7个解释变量的长周期和中短周期构建ARMA模型，观察寿险周期与经济周期等多方面的关系。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span><img width="32"  height="32"  src="寿险周期与经济周期的对应匹配：国际经验与启示.files/寿险周期与经济周期的对应匹配：国际经验与启示5960.png" ></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(一)寿险长周期的影响因素分析</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;将1980—2011年样本国家寿险长周期作为被解释变量，将同期GDP、人均GDP、利率、股指、出生率、老龄化率和社会保障体制长周期这7个因素作为解释变量，构建对数ARMA模型。长周期模型分析结果表明，经济周期是寿险周期的重要影响因素，但并非最重要影响因素(见表8，下页)。具体结论如下：</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;寿险长周期最重要影响因素是老龄化程度。根据各样本国家各解释变量相关系数，可以看出32个样本国家中老龄化率长周期变化是寿险长周期最重要影响因素的国家占比超过53%，其中发达国家占比为55%，新兴工业化国家占比为50%。这说明人的因素即人的养老和健康需求是寿险需求的最重要决定因素。上述老龄化程度对寿险长周期最重要影响因素的国家中，二者相关系数为正的国家占比较高，说明老龄化率越高，商业养老保险和商业健康保险需求越大，商业保险发展水平越高。如美国、加拿大、法国、爱尔兰和瑞士老龄化率增速提高1%，寿险长周期增速会分别提升4.66%、4.62%、6.01%、15.02%和16.01%。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;寿险长周期第二大影响因素是社会保障体制。所有样本国家中，社会保障体制是寿险长周期最重要影响因素的国家占比为22%，全部为发达国家，影响方向绝大部分是负向的。这一结果说明，发达国家社会保障体制对寿险周期的影响程度较大，新兴工业化国家其影响程度较低，原因在于发达国家社会保障体制较为健全、政府发挥作用更加突出，新兴工业化国家社会保障体制不健全，有的国家甚至尚未全面建立，无法发挥相应作用。影响方向是负向的，说明若一国社会保障体制以全面公费医疗或养老为主，则必然会对商业保险形成“挤出”，寿险业发展速度和水平都会较低；反之，若一国社会保障体制以商业医疗或商业养老为主，寿险业发展速度和水平都会较高。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;寿险长周期第三大影响因素是出生率。所有样本国家中，出生率是寿险长周期最重要影响因素的国家占比为19%，绝大部分国家为新兴工业化国家且影响方向为负，说明在新兴工业化国家中，商业保险尚不发达，“养儿防老”和“养儿防病”的传统观念仍然较为盛行，因此出生率越高，老人或家庭的养老支出和医疗支出由儿女负担的比例就会相应提高，反过来会降低商业养老保险和商业健康保险等需求，进而拉低商业保险发展水平和速度；而发达国家由于基本摒弃了这一传统观念，因此出生率对发达国家影响相对较低。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;寿险长周期第四大影响因素是经济增长长周期。按照各个样本国家影响程度排名，可以看出经济增长长周期是寿险长周期影响的第四大因素，其中发达国家和新兴工业化国家寿险长周期七大影响因素中经济增长长周期的影响程度排名分别为第四和第三，且多数国家为正向影响。这一方面说明经济增长长周期不是寿险长周期影响的最重要因素，但也是比较重要的因素，且GDP的增长有利于拉动寿险市场的增长；另一方面说明新兴工业化国家经济增长长周期对寿险周期的影响较大，高于发达国家的相应影响，原因在于新兴工业化国家经济增速较快，居民收入增长较快，社会保障体制普遍不够健全，寿险需求会因此较快上升，而发达国家寿险市场较为成熟，更多会受到行业内生因素影响，包括老龄化率、社会保障体制和出生率以及前期自身发展等，经济增长影响渐趋弱化。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;寿险长周期第五大影响因素是人均GDP增长周期。按照各个样本国家影响程度排名，可以看出人均GDP增长长周期是寿险长周期影响的第五大因素，其中发达国家和新兴工业化国家寿险长周期七大影响因素中人均GDP增长长周期的影响程度排名分别为第五和第四，且多数国家为负向影响。这一方面说明人均GDP增长周期对寿险周期具有一定影响，二者呈现负向关系，表明人均GDP越高，商业保险发展越慢，其原因在于人均收入越高，个人财富积累越大，自我保护能力和抗风险能力越强，对商业保险需求越低；另一方面说明新兴工业化国家人均GDP增长长周期对寿险周期的影响较大，高于发达国家的相应影响，原因在于人均GDP越高，其对商业寿险替代作用越大，但人均GDP达到一个较高程度后，其替代作用不会随之增大，而发达国家人均GDP普遍高于新兴工业化国家，因此新兴工业化国家这一替代效应更为明显。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span><img width="32"  height="32"  src="寿险周期与经济周期的对应匹配：国际经验与启示.files/寿险周期与经济周期的对应匹配：国际经验与启示7783.png" ></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;寿险长周期影响程度较弱的因素是利率长周期和股指长周期。由于利率周期和股指周期主要通过影响寿险投资收益间接影响寿险需求，因此其影响效应较弱。从影响方向看，多数国家寿险长周期与利率长周期存在负向关系，与股指长周期存在正向关系。前者是由于存款等市场对储蓄型寿险产品具有一定替代作用，利率越高，寿险需求越会趋于降低；后者是由于股市向好必然会改善寿险投资收益，进而提高寿险分红类、万能类和投连类产品分红水平，因此股市越高，寿险相关需求就会提升。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(二)寿险中短周期影响因素</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;将1980-2011年样本国家寿险长周期作为被解释变量，将同期GDP、人均GDP、利率、股指、出生率、老龄化率和社会保障体制中短周期这7个因素作为解释变量，构建对数ARMA模型。通过寿险中短周期的模型分析，经济周期是寿险周期的重要影响因素，但并非最重要影响因素(见表9)。总体结论与寿险长周期基本一致，具体结论如下：</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;寿险中短周期最重要影响因素是老龄化程度。根据各样本国家各解释变量相关系数情况，可以看出数据齐全的30个样本国家中老龄化率中短周期变化是寿险中短周期最重要影响因素的国家占比超过80%，其中发达国家占比为87%，新兴工业化国家占比为78%。这些老龄化程度为寿险中短周期最重要影响因素的国家中，二者相关系数为正的国家占比与相关系数为负的国家占比基本相当，说明老龄化程度变化对寿险中短周期的影响方向不一，可能为正，也可能为负，这主要是由一国老龄化总体水平、社会保障体制以及老人保险政策等特性所决定。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;寿险中短周期第二大影响因素是社会保障体制和出生率。所有样本国家中，社会保障体制和出生率变化是寿险中短周期最重要影响因素的国家占比均为10%，二者的影响方向绝大部分都是负向的，这与寿险长周期的情况是一致的。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;寿险中短周期第三大影响因素是经济增长长周期。按照各个样本国家影响程度排名，可以看出经济增长中短周期是寿险中短周期影响的第三大因素，其中发达国家和新兴工业化国家寿险中短周期七大影响因素中经济增长中短周期的影响程度排名均为第三，且85%以上的样本国家为正向影响。这说明经济增长中短周期不是寿险中短周期影响的最重要因素，但也是比较重要的因素，且GDP的增长有利于拉动寿险市场的增长。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;寿险中短周期第四大影响因素是人均GDP增长中短周期。按照各个样本国家影响程度排名，可以看出经济增长中短周期是寿险中短周期影响的第四大因素，其中发达国家和新兴工业化国家寿险中短周期七大影响因素中经济增长中短周期的影响程度排名为第四，且65%国家为负向影响。这再次说明人均GDP越高，商业保险发展越慢，其原因在于人均收入越高，个人财富积累越大，自我保护能力和抗风险能力越强，对商业保险需求趋于降低。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;寿险长周期影响程度较弱的因素是利率中短周期和股指中短周期。总体影响效应较弱，多数国家寿险长周期与利率长周期存在负向关系，与股指长周期存在正向关系。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四、结论与对策建议</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过多国特别是对发达国家和新兴工业化国家寿险周期与经济周期关系研究，可以得出以下结论与建议。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一是正确看待我国寿险增长的不稳定性。寿险的周期性波动特征，决定了寿险发展必然会有好有坏，寿险增速一定会有高有低。同时，包括我国在内的新兴工业化国家寿险增长波动幅度和频率高于发达国家，与其经济周期波动性高于发达国家具有内在一致性。因此在我国寿险市场发展中，要正确对待寿险市场发展的起落，特别是波动的频率相对较高、波动的幅度相对较大，这是寿险市场从不发达走向发达、从不成熟走向成熟过程中的必然现象，保险企业和监管机构对此应有清醒认识，不应因市场出现突升突降而出台临时性、大力度调控政策，而应在把握寿险周期性波动规律基础上实施适度逆周期调控。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span><img width="32"  height="32"  src="寿险周期与经济周期的对应匹配：国际经验与启示.files/寿险周期与经济周期的对应匹配：国际经验与启示9459.png" ></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二是主动顺应我国寿险中短周期顺经济周期的波动特点。分析表明，与其他新兴工业化国家一样，我国寿险周期与经济周期呈现典型的顺周期性特性，且寿险增长与滞后一期经济增长相关性最强。为此，无论是保险监管机构制定寿险发展政策，还是保险企业确立自身发展策略，都应充分考虑寿险周期的顺经济周期特性，本着“按寿险发展规律办事”的原则，加强宏观经济金融研究，前瞻性把握经济发展态势，制定与经济增长相匹配的寿险市场发展目标，切实推进行业科学发展进程。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三是牢牢把握我国寿险长周期上升期的历史机遇。寿险长周期的拐点基本出现在人均GDP达1.3万美元左右的时期，即一国人均GDP达到1.3万美元以前，寿险运行基本处于长周期的上升期，一旦人均GDP超过1.3万美元，其寿险运行将进入长周期的放缓期。2012年末我国人均GDP为7000美元左右，仍处于寿险长周期的上升期，保险业应牢牢把握这一战略机遇，继续在保持行业发展质量、优化行业增长结构的同时，保持适当的行业增长速度，实现行业规模、速度和效益的统一。如果仅偏重质量和效益，可能会错失良机，无法实现科学发展。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四是深刻认识我国寿险周期是经济周期等多因素共同作用的结果。无论是发达国家还是新兴工业化国家，经济周期虽然是寿险周期的重要决定因素，但并非最重要决定因素，老龄化率、社会保障体制对寿险周期的影响程度超过经济周期。除此之外，人均GDP、出生率、利率和股票市场对寿险周期也具有不同程度的影响。与此同时，新兴工业化国家经济周期对寿险周期的影响程度更大，发达国家的这一影响相对较弱。因此，我国作为新兴工业化国家的重要一员，一方面要高度重视经济周期对寿险周期的正向影响，在我国人均GDP达到1.3万美元的拐点之前，把握好未来10年我国经济仍将保持较高增速的发展特点，大力推进我国寿险业发展；另一方面要重点关注我国老龄化率变化和社会保障体制变革对寿险周期性运行的影响，把握好未来10年我国老龄化率加速提高、抚养比加速提升、社会保障体制加快变革的重要特点，积极发展养老保险和健康保险，通过优化监管政策、行业政策和公司发展战略策略，促进寿险行业长期健康稳定发展。此外，还要注重我国利率市场化改革和资本市场发展对利率周期和资本市场周期的影响，主动防范因利率市场化改革促使利率进入上升周期可能给寿险市场带来的新风险，抓住因资本市场周期性向好可能给寿险市场带来的发展良机，通过提高寿险投资收益等多种方式推动寿险业发展。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①受篇幅所限，文中部分数据未以表格形式列出。若读者需要，可与作者联系索取。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②拉姆齐和罗思曼(Ramsy和Rothman，1996)认为“深度”非对称性是一种横向的非对称性，而“陡度”非对称性是一种纵向的非对称。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-right:15.0000pt;margin-left:15.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(102,102,102);
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><font face="微软雅黑" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③采用HP滤波后的中短周期数据进行检验。 </font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></div><!--EndFragment--></body></html>
